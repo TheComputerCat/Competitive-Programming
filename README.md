@@ -2,7 +2,7 @@
 It's never too late :v.
 
 Here I will keep track of all the problems I've done, or I'm doing.
-In the first line of the file you will find the source of the problem, the verdict, the execution time and the memory used. The tag @ME or @TEAM refers to a code made by me or with a team, respectively.
+In the first line of the file you will find the source of the problem, the verdict, the execution time and the memory used. The tag @Me or @Team refers to a code made by me or with a team, respectively.
 
 The verdict that can be:
 - AC = Accepted
@@ -20,9 +20,9 @@ For example, for a c++ code:
 ```cpp
 #/a/path/to/a/file.cpp
 /*
-Problem: https://codeforces.com/gym/105079/problem/E
-V: AC, ET: 100ms, M:500KB
-@TEAM
+ * Problem: https://codeforces.com/gym/105079/problem/E
+ * V: AC, ET: 100ms, M:500KB
+ * @Team
 */
 ```
 
