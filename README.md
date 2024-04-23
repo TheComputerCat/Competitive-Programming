@@ -17,11 +17,13 @@ The verdict that can be:
 
 For example, for a c++ code:
 
-```bash
+```cpp
 #/a/path/to/a/file.cpp
-# Problem: https://codeforces.com/gym/105079/problem/E
-# V: AC, ET: 100ms, M:500KB
-# @TEAM
+/*
+Problem: https://codeforces.com/gym/105079/problem/E
+V: AC, ET: 100ms, M:500KB
+@TEAM
+*/
 ```
 
 This code could not have test or a super readable code because it's not the point of the competitions. For a better code(I hope) you can see my repo of [katas](https://github.com/TheComputerCat/katas). Anyway, sometimes I will try to make a more robust and readable code.
