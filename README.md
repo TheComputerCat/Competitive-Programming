@@ -28,3 +28,23 @@ For example, for a c++ code:
 
 This code could not have test or a super readable code because it's not the point of the competitions. For a better code(I hope) you can see my repo of [katas](https://github.com/TheComputerCat/katas). Anyway, sometimes I will try to make a more robust and readable code.
 
+# How to run code
+1. Compile:
+    ```bash
+        g++ [file] -o o.o
+    ```
+2. Execute with input file:
+    ```bash
+        cat [input_file] | ./o.o
+    ```
+3. Compare with expected output:
+    ```bash
+       diff exp out 
+    ```
+
+Also it is possible:
+
+```bash
+    g++ [file] -o o.o && cat imp | ./o.o | diff exp -
+```
+
